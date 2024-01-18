@@ -1,0 +1,1 @@
+Hi, this is CSCC01 lab1.
