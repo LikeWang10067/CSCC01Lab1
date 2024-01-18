@@ -29,7 +29,7 @@ const ToDoList = ({ initialValues }) => {
 };
 
 ToDoList.defaultProps = {
-    initialValues: ['']
+    initialValues: []
 };
 
 const styles = StyleSheet.create({
